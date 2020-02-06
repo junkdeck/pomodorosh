@@ -6,14 +6,14 @@ MODE=""
 M=0
 S=0
 
-COLOR="" # light color
+COLOR="" # luxafor color
 TCOLOR="" # taskbar color
 
-RED="#220000"
+RED="#220000" # luxafor colors
 GREEN="#002200"
 BLUE="#000022"
 
-TRED="#FF8888"
+TRED="#FF8888" # taskbar colors
 TGREEN="#88FF88"
 TBLUE="#8888FF"
 
